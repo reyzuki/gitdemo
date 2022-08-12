@@ -1,0 +1,14 @@
+
+    
+
+nav {
+    background-color: rosybrown;
+    height: 10vh;
+}
+nav a{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float: right;
+    text-decoration: none;
+}
